@@ -1,0 +1,2 @@
+# ScriptycaJP
+Online Japanese Platform
